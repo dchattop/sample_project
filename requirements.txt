@@ -1,0 +1,7 @@
+pyral==1.5.0
+beautifulsoup4==4.7.1
+soupsieve>=1.2
+lxml==4.6.3
+HTMLParser==0.0.2
+unicodedata2==13.0.0.post2
+pandas>=1.2.0
